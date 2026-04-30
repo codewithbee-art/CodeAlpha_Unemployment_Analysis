@@ -5,8 +5,6 @@ The objective of this project is to analyze unemployment trends in India using P
 
 ## Dataset
 The dataset contains unemployment statistics across different regions in India.
-----------
-
 Key columns used in this project include:
 - State
 - Date
