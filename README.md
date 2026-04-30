@@ -42,6 +42,7 @@ The project follows a structured data analysis workflow:
 
 ## Data Cleaning
 The dataset contained extra spaces in column names and some missing values. Column names were cleaned and renamed for better readability. Missing rows were removed to ensure consistency during analysis.
+
 -----------
 
 ## Covid-19 Impact Analysis
