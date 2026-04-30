@@ -1,6 +1,7 @@
 # Unemployment Analysis in India using Python
 
 The objective of this project is to analyze unemployment trends in India using Python. The project focuses on understanding unemployment patterns across different states, comparing urban and rural unemployment, analyzing monthly trends, and studying the impact of Covid-19 on unemployment rates.
+
 -----------
 
 ## Dataset
@@ -52,6 +53,7 @@ The dataset was divided into two periods:
 - During-Covid: 2020 and after
 
 This helped compare unemployment levels before and during the Covid-19 period.
+
 ----------
 
 ## Visualizations
@@ -82,6 +84,7 @@ The project includes visual analysis of:
 
 ## Conclusion
 This project shows how Python can be used to analyze unemployment trends and generate meaningful economic insights. The analysis highlights regional differences, urban-rural variation, and the significant impact of Covid-19 on unemployment in India.
+
 ------------
 
 ## Author
